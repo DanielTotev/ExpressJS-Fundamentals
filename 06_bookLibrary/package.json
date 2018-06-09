@@ -1,0 +1,14 @@
+{
+  "name": "booklibrary",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "DanielT",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "express": "4.16.3",
+    "express-handlebars": "3.0.0",
+    "mongoose": "5.1.4"
+  }
+}
